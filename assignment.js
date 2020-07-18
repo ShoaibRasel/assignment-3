@@ -1,6 +1,6 @@
 //First Problem start.
 function feetToMile(feet){
- var mail = feet / 5280;
+ var mile = feet / 5280;
  
  return mile;
 }
